@@ -71,9 +71,9 @@ private static final String password = "your_password";
 
 ## Running the Project
 
-1. Compile all Java files:
+1. Compile all Java files :
     javac -cp ".;mysql-connector-j-9.7.0.jar" src\*.java  
-2. Run Project
+2. Run Project :
     java -cp "src;mysql-connector-j-9.7.0.jar" InventoryBillingSystem
 
 

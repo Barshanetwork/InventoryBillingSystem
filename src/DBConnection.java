@@ -4,8 +4,8 @@ import java.sql.*;
 
 public class DBConnection{
     private static final String url="jdbc:mysql://localhost:3306/inventory_billing_sys";
-    private static final String username="root";
-    private static final String password="root";
+    private static final String username="your_username";
+    private static final String password="your_password";
 
     public static Connection getConnection(){
         Connection con = null;

@@ -47,6 +47,7 @@ InventoryBillingSystem
 ## Database Setup
 
 1. Open MySQL Workbench or MySQL Command Line.
+    Download : https://dev.mysql.com/downloads/installer/
 2. Run the SQL file:
     ```sql
     source database/inventory_billing.sql

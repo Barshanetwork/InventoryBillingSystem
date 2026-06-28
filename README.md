@@ -55,6 +55,8 @@ InventoryBillingSystem
    - Create the database
    - Create all required tables
    - Insert sample products
+4. Download mysql-connector-j-9.7.0.jar
+    https://dev.mysql.com/downloads/connector/j/?os=26
 
 ## Configuration
 
